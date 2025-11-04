@@ -22,3 +22,5 @@ To use this tool you need to have the video/audio file and also the transcriptio
 - Use `control` to repeat just the part you want as many times as you need to get the answer
 
 If you want to test it before downloading it, click here: https://fvelsg.github.io/DictationPractice/index.html
+Suggested website to download the video transcriptions (always download the .srt file): https://downsub.com/
+Or you can download the srt file using yt-dlp (https://github.com/yt-dlp/yt-dlp), I think that using downsub it much faster and easier though
