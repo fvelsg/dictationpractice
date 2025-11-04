@@ -21,3 +21,4 @@ To use this tool you need to have the video/audio file and also the transcriptio
 - If you want to go to the next part, click "Pŕoximo trecho" or if you want to go backwards click "Trecho anterior"
 - Use `control` to repeat just the part you want as many times as you need to get the answer
 
+If you want to test it before downloading it, click here: https://fvelsg.github.io/DictationPractice/index.html
